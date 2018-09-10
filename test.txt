@@ -1,0 +1,7 @@
+This is a test php file
+
+<?php
+//displaying the text hello World.
+echo "Hello Wordl";
+
+?>
